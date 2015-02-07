@@ -10,5 +10,6 @@ package co.persona;
  * @author User
  */
 public class Persona {
-    
+    String nombre;
+    int a=10;
 }
